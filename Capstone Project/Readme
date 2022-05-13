@@ -3,7 +3,7 @@
 •	Aim was to analyse trends in happiness around the world and determine if happiness of a country can be predicted 
 •	Data published by Sustainable Development Solutions Network, powered by the Gallup World Poll data was used  
 •	Technologies used: Microsoft Power BI and Python (Jupyter Notebook) 
-•	Data was cleaned and transformed which included writing DAX queries to replace missing values, creating conditional and calculated columns and measures, splitting and merging tables to create time series etc. 
-•	Visuals were created in Power BI to analyse happiness score of countries across various regions and compare them, analyse trends of happiness for countries through time, explore different features that are correlated to happiness score of a country. 
-•	Linear regression models were built using OLS method, calculating feature importance, by splitting into train, test set and using different number of features. Best regression model(with highest model score) was the one with top 7 (out of 8) features 
-•	Predicted UK’s happiness score for 2021 using the model and got a value with only 6% higher than actual value of 2021. Also predicted the same correctly (within 95% confidence interval) using time series for UK’s happiness score in Power BI 
+•	Data was cleaned and transformed which included writing DAX queries to replace missing values, creating conditional and calculated columns and measures, splitting        and merging tables to create time series etc. 
+•	Visuals were created in Power BI to analyse happiness score of countries across various regions and compare them, analyse trends of happiness for countries through      time, explore different features that are correlated to happiness score of a country. 
+•	Linear regression models were built using OLS method, calculating feature importance, by splitting into train, test set and using different number of features. Best      regression model(with highest model score) was the one with top 7 (out of 8) features 
+•	Predicted UK’s happiness score for 2021 using the model and got a value with only 6% higher than actual value of 2021. Also predicted the same correctly (within 95%      confidence interval) using time series for UK’s happiness score in Power BI 
