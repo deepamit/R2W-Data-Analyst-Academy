@@ -1,5 +1,6 @@
 # R2W-Data-Analyst-Academy
 I trained for the following:
+
   •	Power BI: Data Analysis Professional
   
   •	SQL for Data Analytics
